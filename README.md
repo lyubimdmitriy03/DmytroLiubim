@@ -1,5 +1,8 @@
-# DmytroLiubim
-Frontend web developer with 3+ years of experience creating responsive, pixel-perfect websites. Skilled in HTML, CSS, JavaScript, and WordPress. Passionate about clean code, smooth animations, and delivering great user experiences.
+👋 Hi there! I'm a Frontend Developer
+I am a Frontend Developer with over 3 years of experience specializing in building responsive, pixel-perfect websites using modern technologies. I have developed more than 50 WordPress sites for small and medium businesses, focusing on usability, performance, and smooth user interactions.
+
+I especially enjoy working with animations, leveraging libraries like GSAP and Anime.js to create engaging, dynamic user experiences. I’m passionate about keeping up-to-date with the latest frontend trends and best practices to deliver high-quality, modern websites.
+
 
 ## 💼 My Skills & Expertise
 
