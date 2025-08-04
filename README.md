@@ -71,4 +71,25 @@ Always staying updated with frontend trends and tech.
 
 ---
 
+🌐 My Portfolio
+Here are some of my featured works:
+
+https://www.cloudshare.com/
+https://nettercenter.com/
+https://reliz.co.il/
+https://www.plas-fit.com/
+https://lyubimdmitriy03.github.io/esther/
+https://www.tavlit.co.il/
+https://www.artport.art/
+
+---
+
+🤝 Connect with Me
+📧 Email: liubimdmytro@gmail.com
+💼 LinkedIn: www.linkedin.com/in/dmitriy-liubim-656720202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📘 Facebook: www.facebook.com/dmytro.liubim?rdid=Igzo340zrcp3rd9Y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16zTBWkZdb%2F
+🧰 Upwork: www.upwork.com/freelancers/~01aa120201b7804178
+
+---
+
 📩 **Looking forward to helping you bring your amazing project to life!**
